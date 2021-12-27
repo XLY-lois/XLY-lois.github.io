@@ -1,2 +1,2 @@
 # XLY-lois.github.io
-github pagee
+github pages
